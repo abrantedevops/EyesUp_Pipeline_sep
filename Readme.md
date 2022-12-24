@@ -1,14 +1,6 @@
-# EyesUP Pipeline
+<img src="E_P.png" alt="Logo EyesUp_Pipeline" width="490" height="250">
 
-<p align="center">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/AbranJames/EyesUp_Pipeline">
-
-<img alt="Made by AbranJames" src="https://img.shields.io/badge/made%20by-AbranJames-%2304D361">
-
-</p>
-
-<iframe src="banner.html" width="490" height="250"></iframe>
 
 # :pushpin:  Índice
 
