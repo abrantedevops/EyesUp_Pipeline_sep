@@ -1,4 +1,4 @@
-<img src="E_P.png" alt="Logo EyesUp_Pipeline" width="490" height="250">
+<img src="E_P.png" alt="Logo EyesUp_Pipeline" width="690" height="250">
 
 
 
