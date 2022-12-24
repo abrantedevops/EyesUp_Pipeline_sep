@@ -1,0 +1,31 @@
+#Parte 3 - docker compose
+
+version: '3'
+
+services:
+  app:
+    image: abrantedevops/eyesupapp:1.0
+    container_name: app
+    restart: always
+    ports:
+      - "80:80"
+    networks:
+      - wishnet
+
+  db:
+    image: abrantedevops/eyesupdb:1.0
+    container_name: db
+    restart: always
+    ports:
+      - "3000:3000"
+      - "5555:5555"
+    mem_limit: 512M
+    networks:
+      - wishnet
+
+
+networks:
+  wishnet:
+    driver: bridge
+
+    
