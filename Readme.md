@@ -1,5 +1,7 @@
-<img src="E_P.png" alt="Logo EyesUp_Pipeline" style="max-width:100%">
 
+<h1 align="center">
+    <img alt="EyesUP" title="#EyesUP" src="eps.png" width="850px" />
+</h1>
 
 
 # :pushpin:  Índice
